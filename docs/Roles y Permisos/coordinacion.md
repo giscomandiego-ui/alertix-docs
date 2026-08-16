@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-El coordinador utiliza Alertix para dar seguimiento a los estudiantes que tiene asignados y mantenerse informado sobre sus atenciones en Enfermería.
+> El coordinador utiliza Alertix para dar seguimiento a los estudiantes que tiene asignados y mantenerse informado sobre sus atenciones en Enfermería.
 
 ### Estudiantes asignados
 
