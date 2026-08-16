@@ -1,11 +1,11 @@
 ---
-title: Enfermeria
+title: Enfermería
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
-El personal de Enfermería utiliza Alertix para gestionar las atenciones de los estudiantes y consultar la información necesaria para brindar una atención adecuada.
+> El personal de Enfermería utiliza Alertix para gestionar las atenciones de los estudiantes y consultar la información necesaria para brindar una atención adecuada.
 
 ### Atención de estudiantes
 
