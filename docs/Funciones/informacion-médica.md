@@ -1,5 +1,5 @@
 ---
-title: Informacion Médica
+title: Información Médica
 deprecated: false
 hidden: false
 metadata:
