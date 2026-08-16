@@ -3,6 +3,7 @@ title: Activación de Cuenta
 excerpt: Activa tu cuenta en Alertix
 deprecated: false
 hidden: false
+icon: far fa-album-collection-circle-plus
 metadata:
   robots: index
 ---
