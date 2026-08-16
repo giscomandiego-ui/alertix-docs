@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-El administrador tiene acceso a las herramientas de gestión general de Alertix y se encarga de administrar los usuarios y estudiantes de la institución.
+> El administrador tiene acceso a las herramientas de gestión general de Alertix y se encarga de administrar los usuarios y estudiantes de la institución.
 
 ### Gestión de usuarios
 
