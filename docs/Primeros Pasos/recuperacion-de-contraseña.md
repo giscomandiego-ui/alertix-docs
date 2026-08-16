@@ -3,6 +3,7 @@ title: Recuperacion de Contraseña
 excerpt: Recupera tu contraseña de Alertix
 deprecated: false
 hidden: false
+icon: far fa-shield-halved
 metadata:
   robots: index
 ---
