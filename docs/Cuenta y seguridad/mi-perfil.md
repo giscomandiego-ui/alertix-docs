@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-La sección **Mi perfil** permite consultar y actualizar la información personal asociada a tu cuenta de Alertix.
+> La sección **Mi perfil** permite consultar y actualizar la información personal asociada a tu cuenta de Alertix.
 
 ### Información personal
 
