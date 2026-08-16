@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-Alertix protege el acceso a la información mediante autenticación y permisos asociados a cada cuenta.
+> Alertix protege el acceso a la información mediante autenticación y permisos asociados a cada cuenta.
 
 ### Acceso por roles
 
