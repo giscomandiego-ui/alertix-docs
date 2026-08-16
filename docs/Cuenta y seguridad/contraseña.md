@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-Alertix permite establecer y actualizar la contraseña de tu cuenta de forma segura.
+> Alertix permite establecer y actualizar la contraseña de tu cuenta de forma segura.
 
 ### Cambiar mi contraseña
 
