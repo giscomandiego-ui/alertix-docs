@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-Los padres de familia utilizan Alertix para consultar la información de sus hijos y mantenerse comunicados con Enfermería.
+> Los padres de familia utilizan Alertix para consultar la información de sus hijos y mantenerse comunicados con Enfermería.
 
 ### Información de sus hijos
 
