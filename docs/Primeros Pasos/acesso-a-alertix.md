@@ -3,6 +3,7 @@ title: Acesso a Alertix
 excerpt: Accede a Alertix
 deprecated: false
 hidden: false
+icon: far fa-key
 metadata:
   robots: index
 ---
