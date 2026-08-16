@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-El correo electrónico es utilizado para identificar tu cuenta y enviar mensajes importantes relacionados con Alertix.
+> El correo electrónico es utilizado para identificar tu cuenta y enviar mensajes importantes relacionados con Alertix.
 
 ### Activación de la cuenta
 
