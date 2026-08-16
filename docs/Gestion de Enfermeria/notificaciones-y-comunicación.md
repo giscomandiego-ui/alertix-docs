@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-Alertix facilita la comunicación entre Enfermería, los padres de familia y el personal autorizado mediante notificaciones y mensajes relacionados con la atención de los estudiantes.
+> Alertix facilita la comunicación entre Enfermería, los padres de familia y el personal autorizado mediante notificaciones y mensajes relacionados con la atención de los estudiantes.
 
 ### Notificaciones
 
