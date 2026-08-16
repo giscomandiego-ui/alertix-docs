@@ -33,4 +33,4 @@ Si un administrador creó tu cuenta, debes activarla mediante el **correo de act
 
 Si olvidaste tu contraseña, selecciona **¿Olvidaste tu contraseña?** para recuperarla.
 
-Si todavía no has activado tu cuenta, consulta **Activar mi cuenta**.
+Si todavía no has activado tu cuenta, consulta Activar mi cuenta.
