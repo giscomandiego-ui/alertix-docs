@@ -2,6 +2,7 @@
 title: General
 deprecated: false
 hidden: false
+icon: far fa-circle-info
 metadata:
   robots: index
 ---
