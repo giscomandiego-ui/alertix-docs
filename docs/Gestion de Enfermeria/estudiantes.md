@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-Alertix centraliza la información de los estudiantes para facilitar su identificación y el acceso a los datos necesarios durante la atención.
+> Alertix centraliza la información de los estudiantes para facilitar su identificación y el acceso a los datos necesarios durante la atención.
 
 ### Perfil del estudiante
 
