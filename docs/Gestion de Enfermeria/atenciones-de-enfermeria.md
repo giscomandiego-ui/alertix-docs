@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-> Alertix permite registrar y consultar las atenciones realizadas a los estudiantes en Enfermería, manteniendo un historial organizado de cada atención.
+Alertix permite registrar y consultar las atenciones realizadas a los estudiantes en Enfermería, manteniendo un historial organizado de cada atención.
 
 ### Registrar una atención
 
