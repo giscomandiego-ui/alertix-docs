@@ -11,17 +11,17 @@ metadata:
 
 El personal de Enfermería puede identificar al estudiante y registrar la atención realizada, incluyendo la información necesaria sobre su visita.
 
-### Información de la atención
-
-Cada registro puede incluir datos como:
-
-- Estudiante atendido.
-- Fecha y hora de la atención.
-- Motivo de la visita.
-- Observaciones.
-- Diagnóstico, cuando corresponda.
-- Medicamentos administrados.
-- Hora de salida.
+> ### Información de la atención
+>
+> Cada registro puede incluir datos como:
+>
+> - Estudiante atendido.
+> - Fecha y hora de la atención.
+> - Motivo de la visita.
+> - Observaciones.
+> - Diagnóstico, cuando corresponda.
+> - Medicamentos administrados.
+> - Hora de salida.
 
 ### Seguimiento
 
