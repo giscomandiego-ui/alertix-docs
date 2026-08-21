@@ -7,18 +7,18 @@ icon: far fa-shield-halved
 metadata:
   robots: index
 ---
-### Recuperar mi contraseña
-
-Si olvidaste tu contraseña, puedes restablecerla desde la pantalla de inicio de sesión de Alertix.
-
-### Solicitar un enlace de recuperación
-
-1. En la pantalla de **Inicio de sesión**, selecciona **¿Olvidaste tu contraseña?**
-2. Introduce el correo electrónico asociado a tu cuenta.
-3. Selecciona la opción para enviar el enlace de recuperación.
-4. Revisa tu correo electrónico y abre el enlace recibido.
-5. Establece tu nueva contraseña.
-6. Una vez completado el proceso, podrás iniciar sesión nuevamente.
+> ### Recuperar mi contraseña
+>
+> Si olvidaste tu contraseña, puedes restablecerla desde la pantalla de inicio de sesión de Alertix.
+>
+> ### Solicitar un enlace de recuperación
+>
+> 1. En la pantalla de **Inicio de sesión**, selecciona **¿Olvidaste tu contraseña?**
+> 2. Introduce el correo electrónico asociado a tu cuenta.
+> 3. Selecciona la opción para enviar el enlace de recuperación.
+> 4. Revisa tu correo electrónico y abre el enlace recibido.
+> 5. Establece tu nueva contraseña.
+> 6. Una vez completado el proceso, podrás iniciar sesión nuevamente.
 
 ### Si no recibes el correo
 
