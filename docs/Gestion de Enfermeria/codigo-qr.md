@@ -14,11 +14,3 @@ metadata:
 > ### Consulta del perfil
 >
 > Después de escanear el código, Alertix muestra la información disponible del estudiante de acuerdo con los permisos del usuario.
->
-> ### Uso en Enfermería
->
-> El código QR permite agilizar el proceso de identificación al momento de registrar una atención, evitando búsquedas manuales innecesarias.
->
-> ### Privacidad
->
-> El código QR no otorga acceso ilimitado a la información del estudiante. Los datos que pueden consultarse dependen del rol y los permisos de la persona que lo escanea.
