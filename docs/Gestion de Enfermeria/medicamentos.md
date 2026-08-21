@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-> Alertix permite registrar y consultar información relacionada con los medicamentos administrados a los estudiantes durante una atención de Enfermería.
+Alertix permite registrar y consultar información relacionada con los medicamentos administrados a los estudiantes durante una atención de Enfermería.
 
 > ### Administración de medicamentos
 >
