@@ -26,4 +26,6 @@ Revisa las carpetas de **Spam**, **Correo no deseado** o **Promociones**.
 
 Si el enlace ya no es válido, solicita un nuevo enlace de recuperación desde Alertix.
 
-> **Importante:** No compartas tu enlace de recuperación ni tu contraseña con otras personas.
+**Importante:** No compartas tu enlace de recuperación ni tu contraseña con otras personas.
+
+<br />
