@@ -11,15 +11,15 @@ metadata:
 
 Cada estudiante cuenta con un perfil donde se puede consultar la información registrada, incluyendo sus datos personales y médicos.
 
-### Información médica
-
-El perfil puede incluir información relevante como:
-
-- Alergias.
-- Condiciones médicas.
-- Medicamentos.
-- Información proporcionada por los padres de familia.
-- Documentos médicos.
+> ### Información médica
+>
+> El perfil puede incluir información relevante como:
+>
+> - Alergias.
+> - Condiciones médicas.
+> - Medicamentos.
+> - Información proporcionada por los padres de familia.
+> - Documentos médicos.
 
 ### Código QR
 
