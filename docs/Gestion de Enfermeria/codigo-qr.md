@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-> Alertix utiliza códigos QR para facilitar la identificación rápida de los estudiantes y el acceso a su información dentro de la plataforma.
+Alertix utiliza códigos QR para facilitar la identificación rápida de los estudiantes y el acceso a su información dentro de la plataforma.
 
 > ### Identificar un estudiante
 >
