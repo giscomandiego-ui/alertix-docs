@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-> Alertix permite centralizar la información médica relevante de cada estudiante para facilitar una atención rápida y segura.
+Alertix permite centralizar la información médica relevante de cada estudiante para facilitar una atención rápida y segura.
 
 > ### Datos médicos
 >
