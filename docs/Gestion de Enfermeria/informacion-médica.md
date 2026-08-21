@@ -7,15 +7,15 @@ metadata:
 ---
 > Alertix permite centralizar la información médica relevante de cada estudiante para facilitar una atención rápida y segura.
 
-### Datos médicos
-
-El perfil del estudiante puede contener información como:
-
-- Alergias.
-- Enfermedades o condiciones médicas.
-- Medicamentos.
-- Información médica proporcionada por los padres.
-- Documentos relacionados con su salud.
+> ### Datos médicos
+>
+> El perfil del estudiante puede contener información como:
+>
+> - Alergias.
+> - Enfermedades o condiciones médicas.
+> - Medicamentos.
+> - Información médica proporcionada por los padres.
+> - Documentos relacionados con su salud.
 
 ### Consulta durante una atención
 
