@@ -12,15 +12,15 @@ Alertix utiliza diferentes roles para adaptar el acceso y las funciones de cada 
 
 Cada usuario solo puede acceder a las herramientas correspondientes a su rol.
 
-### Roles disponibles
-
-| Rol                  | Función principal                                                                     |
-| -------------------- | ------------------------------------------------------------------------------------- |
-| **Administrador**    | Gestiona usuarios, estudiantes y configuración general de Alertix.                    |
-| **Enfermería**       | Gestiona las atenciones y la información relacionada con la salud de los estudiantes. |
-| **Coordinación**     | Supervisa el seguimiento y la información general relacionada con las atenciones.     |
-| **Docente**          | Consulta la información que necesita para apoyar la atención de los estudiantes.      |
-| **Padre de familia** | Consulta la información de sus hijos y mantiene comunicación con Enfermería.          |
+> ### Roles disponibles
+>
+> | Rol                  | Función principal                                                                     |
+> | -------------------- | ------------------------------------------------------------------------------------- |
+> | **Administrador**    | Gestiona usuarios, estudiantes y configuración general de Alertix.                    |
+> | **Enfermería**       | Gestiona las atenciones y la información relacionada con la salud de los estudiantes. |
+> | **Coordinación**     | Supervisa el seguimiento y la información general relacionada con las atenciones.     |
+> | **Docente**          | Consulta la información que necesita para apoyar la atención de los estudiantes.      |
+> | **Padre de familia** | Consulta la información de sus hijos y mantiene comunicación con Enfermería.          |
 
 ### Acceso según el rol
 
