@@ -2,7 +2,7 @@
 title: Comunicación y Notificaciones
 deprecated: false
 hidden: false
-icon: far fa-thought-bubble
+icon: far fa-bell
 metadata:
   robots: index
 ---
