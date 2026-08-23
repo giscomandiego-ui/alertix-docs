@@ -2,6 +2,7 @@
 title: Acceso
 deprecated: false
 hidden: false
+icon: far fa-universal-access
 metadata:
   robots: index
 ---
