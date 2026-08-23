@@ -2,7 +2,7 @@
 title: Escaneo QR y Atención
 deprecated: false
 hidden: false
-icon: far fa-circle-info
+icon: far fa-qrcode
 metadata:
   robots: index
 ---
